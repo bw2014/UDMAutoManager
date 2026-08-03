@@ -3,3 +3,9 @@ D:\GitHub2\UDMAutoManager\UDMAutoManager\bin\Debug\UDMAutoManager.pdb
 D:\GitHub2\UDMAutoManager\UDMAutoManager\obj\Debug\UDMAutoManager.csprojResolveAssemblyReference.cache
 D:\GitHub2\UDMAutoManager\UDMAutoManager\obj\Debug\UDMAutoManager.dll
 D:\GitHub2\UDMAutoManager\UDMAutoManager\obj\Debug\UDMAutoManager.pdb
+D:\myCode\1Campus\Desktop\Modules\UDMAutoManager\UDMAutoManager\bin\Debug\UDMAutoManager.dll
+D:\myCode\1Campus\Desktop\Modules\UDMAutoManager\UDMAutoManager\bin\Debug\UDMAutoManager.pdb
+D:\myCode\1Campus\Desktop\Modules\UDMAutoManager\UDMAutoManager\obj\Debug\UDMAutoManager.csproj.AssemblyReference.cache
+D:\myCode\1Campus\Desktop\Modules\UDMAutoManager\UDMAutoManager\obj\Debug\UDMAutoManager.csproj.CoreCompileInputs.cache
+D:\myCode\1Campus\Desktop\Modules\UDMAutoManager\UDMAutoManager\obj\Debug\UDMAutoManager.dll
+D:\myCode\1Campus\Desktop\Modules\UDMAutoManager\UDMAutoManager\obj\Debug\UDMAutoManager.pdb
